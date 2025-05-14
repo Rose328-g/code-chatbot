@@ -1,0 +1,7 @@
+cd code-chatbot
+git init
+git remote add origin https://github.com/Rose328-g/code-chatbot.git
+git add .
+git commit -m "Initial commit of Streamlit + Groq chatbot"
+git branch -M main
+git push -u origin main
